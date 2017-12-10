@@ -58,7 +58,7 @@ export default class PinCardComponent extends PureComponent {
 									{this.props.product.title}
 								</Card.Header>
 								<Card.Meta>
-									Tagged as:
+									Tagged as:&nbsp;
 									<a href="#">#green eyes</a>
 									{/* Add parsing for tags property here */}
 								</Card.Meta>
